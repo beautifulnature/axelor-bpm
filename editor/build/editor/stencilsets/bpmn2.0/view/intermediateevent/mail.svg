@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:oryx="http://www.b3mn.org/oryx"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="40"
+   height="40"
+   id="svg2">
+  <metadata
+     id="metadata21">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4" />
+  <oryx:magnets>
+    <oryx:magnet
+       oryx:cx="16"
+       oryx:cy="16"
+       oryx:default="yes" />
+  </oryx:magnets>
+  <oryx:docker
+     oryx:cx="16"
+     oryx:cy="16" />
+  <g
+     id="g6">
+    <defs
+       id="defs8">
+      <radialGradient
+         cx="0.1"
+         cy="0.1"
+         r="1"
+         fx="0.1"
+         fy="0.1"
+         id="background">
+        <stop
+           id="stop11"
+           style="stop-color:#ffffff;stop-opacity:1"
+           offset="0" />
+        <stop
+           id="fill_el"
+           style="stop-color:#ffffff;stop-opacity:1"
+           offset="1" />
+      </radialGradient>
+    </defs>
+    <circle
+       cx="16"
+       cy="16"
+       r="15"
+       id="bg_frame"
+       style="fill:url(#background) #ffffff;stroke:#000000;stroke-width:1" />
+    <circle
+       cx="16"
+       cy="16"
+       r="12"
+       id="frame"
+       style="fill:none;stroke:#000000;stroke-width:1" />
+    <text
+       x="16"
+       y="33"
+       id="text_name"
+       style="font-size:11px;stroke:#000000" />
+    <rect
+       width="12.542373"
+       height="10.508474"
+       rx="0.5823676"
+       ry="0"
+       x="9.6610174"
+       y="11.694916"
+       id="rect3007"
+       style="opacity:0.98999999;fill:none;stroke:#00000f;stroke-width:1;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <rect
+       width="16.61017"
+       height="2.3728814"
+       rx="0.5823676"
+       x="7.9661016"
+       y="22.542374"
+       id="rect3791"
+       style="opacity:0.98999999;fill:none;stroke:#00000f;stroke-width:1;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <rect
+       width="7.6271186"
+       height="5.2542372"
+       x="12.033898"
+       y="14.406779"
+       id="rect3805"
+       style="opacity:0.98999999;fill:none;stroke:#00000f;stroke-width:1;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <path
+       d="m 12.542373,15.084746 c 3.050847,2.372881 3.050847,2.372881 3.050847,2.372881 l 3.898305,-2.881356"
+       id="path3811"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       d="m 9.4915254,11.694915 c -3.3898305,0.169492 -3.3898305,0.169492 -3.3898305,0.169492 l 9.6610171,-7.6271189 10,7.4576269 -4.067797,-0.169491 0,0"
+       id="path3819"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+   
+   <text font-size="11" 
+		id="text_name" 
+		x="16" y="33" 
+		oryx:align="top center" 
+		stroke="black"
+	></text>
+  </g>
+</svg>
