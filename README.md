@@ -1,10 +1,26 @@
-<h1>Axelor BPM Editor</h1>
-Axelor BPM Editor is a graphical editor to design Axelor Workflow diagrams. <br />
-It uses standard bpmn2.0 notation for shapes of diagram. Basic shapes of bpmn2.0 like Transition,Task and Diagram are modified to have property that link it with particular model, condition or action.<br />
-On save of digram it update corresponding workflow, including new nodes and transitions. Same digram will be shown in Instance of Workflow with active nodes.<br />
+Axelor BPM Editor
+================================
 
-<h1>Installation</h1>
-* In project root directory run :<br />
-<code>ant build-all-in-one-war</code><br />
-* After successful build, war created is under target/axelorbpm.war .
-* Put war in your server.
+Axelor BPM is among the most comprehensive workflow that integrates the engine itself, but also the definition of advanced user interfaces for creating complete applications.
+
+Axelor BPM includes the following modules:
+
+* Modeling within BPMN 2.0 standards
+* Graphical definition of business processes
+* Graphic monitoring of business processes
+* Users Aaerts 
+* Dynamic users forms
+* Dashboards per profile
+* Rules Engine integration
+* Dynamic processes updates 
+* 100% Ajax web Interface
+* Web Services integration with the rest of the information system
+
+Axelor BPMis built on top of [Axelor platform](https://github.com/axelor/axelor-platform)
+
+Installation
+-------------------------
+
+* In project root directory run : ``` ant build-all-in-one-war ```
+* After successful build, war created is under target/axelorbpm.war 
+* Put war in your server
